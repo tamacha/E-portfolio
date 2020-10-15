@@ -358,6 +358,19 @@ footer {
 	position: relative;
 }
 
+.twitter {
+	height: 50px;
+	padding-top: 40px;
+}
+
+.twitter a {
+	color: #fff;
+} 
+
+.twitter a:hover {
+	border-bottom: 1px solid #fff;
+}
+
 .dotdog {
 	position: absolute;
 	bottom: 47%;
